@@ -10,16 +10,19 @@ namespace comoquiera
     {
         static void Main(string[] args)
         {
-            int num1, num2, suma;
+            Alumno _alumno = new Alumno();
+            Profesor _profesor = new Profesor();
+            _alumno.Edad = 17;
+            _alumno.Nombre = "Samy";
+            _alumno.NoControl = 14;
 
-           
-            Console.Write("Suma");
-            Console.Write("\nIngrese un numero: ");
-            num1 = Int32.Parse(Console.ReadLine());
-            Console.Write("\nIngrese el numero 2: ");
-            num2 = Int32.Parse(Console.ReadLine());
-            suma = num1 + num2;
-            Console.WriteLine("El Resultado es: " + suma);
+            _profesor.Edad = 23;
+            _profesor.Nombre = "Erick";
+            _profesor.sueldo = 1;
+
+            Console.WriteLine("La edad del alumno es: {1} y NoControl: {2}", _alumno.Edad,_alumno.Nombre,_alumno.NoControl);
+            Console.WriteLine("La edad del Prefesor es: {1} y sueldo: {2}", _profesor.Edad, _profesor.Nombre, _profesor.sueldo);
+   
             Console.ReadKey();
         }
     }
