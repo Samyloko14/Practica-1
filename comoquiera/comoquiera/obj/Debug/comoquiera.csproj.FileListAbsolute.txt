@@ -4,3 +4,6 @@ C:\Users\Sala12\Documents\Pratica\Practica-1\comoquiera\comoquiera\bin\Debug\com
 C:\Users\Sala12\Documents\Pratica\Practica-1\comoquiera\comoquiera\obj\Debug\comoquiera.csprojResolveAssemblyReference.cache
 C:\Users\Sala12\Documents\Pratica\Practica-1\comoquiera\comoquiera\obj\Debug\comoquiera.exe
 C:\Users\Sala12\Documents\Pratica\Practica-1\comoquiera\comoquiera\obj\Debug\comoquiera.pdb
+C:\Users\Sala12\Documents\Practica-1\comoquiera\comoquiera\bin\Debug\comoquiera.exe.config
+C:\Users\Sala12\Documents\Practica-1\comoquiera\comoquiera\obj\Debug\comoquiera.exe
+C:\Users\Sala12\Documents\Practica-1\comoquiera\comoquiera\obj\Debug\comoquiera.pdb
